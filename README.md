@@ -1,4 +1,4 @@
 urnbis
 ======
 
-A place for me to track urnbis activity
+A place to track urnbis activity
